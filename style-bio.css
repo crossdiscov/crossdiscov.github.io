@@ -1,0 +1,25 @@
+.bg {
+  background-color: #cfd2cf;
+  height: 100vh;
+  padding: 50px;
+}
+
+.list {
+  display: flex;
+  font-family: "Merriweather";
+  border: solid;
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-family: "Ubuntu";
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.btn {
+  padding-left: 30px;
+  padding-right: 30px;
+}

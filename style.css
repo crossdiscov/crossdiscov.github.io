@@ -1,0 +1,31 @@
+.bg {
+  background-color: #cfd2cf;
+  height: 100vh;
+}
+
+.d-grid {
+  display: grid;
+  text-align: center;
+  gap: 15px;
+  padding-top: 150px;
+}
+
+h1 {
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+h5 {
+  font-family: "Merriweather";
+  padding-left: 220px;
+  padding-right: 220px;
+  font-size: 1.5rem;
+}
+
+.btn {
+  width: 8%;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  margin-top: 10px;
+}

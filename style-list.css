@@ -1,0 +1,34 @@
+.bg {
+  background-color: #cfd2cf;
+  height: 100vh;
+}
+
+.d-grid {
+  display: grid;
+  gap: 50px;
+  text-align: center;
+  align-items: center;
+  padding: 100px 100px 90px 100px;
+}
+
+.btn {
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.new {
+  display: flex;
+  width: 85%;
+}
+
+.link {
+  width: 40%;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
