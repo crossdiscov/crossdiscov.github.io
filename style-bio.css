@@ -11,15 +11,29 @@
   border-radius: 12px;
   padding: 10px;
   font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.proposal {
+  display: flex;
+  font-family: "Merriweather";
+  border: solid;
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 1.5rem;
 }
 
 h1 {
   font-family: "Ubuntu";
   font-weight: bold;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 .btn {
   padding-left: 30px;
   padding-right: 30px;
+}
+
+h2 {
+  width: 1100px;
 }
